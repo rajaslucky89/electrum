@@ -1,5 +1,7 @@
 # Electrum Customer App
 
+<img width="1080" height="2400" alt="Screenshot_1764138085" src="https://github.com/user-attachments/assets/b0f19bbf-e14e-4dff-afae-db179bd3140f" />
+
 ### Prerequisites
 - Flutter SDK (latest stable)
 - Dart SDK
